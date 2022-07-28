@@ -1,0 +1,37 @@
+.carosel-1 {
+    background-image: url('images/cov-1-01.jpg');
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.carosel-2 {
+    background-image: url('images/cov-2-01.jpg');
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.carosel-3 {
+    background-image: url('images/cov-3-01.jpg');
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.caro {
+padding-top: 15%;
+}
+
+.caro h1 {
+    font-size: 70px;
+}
+
+.caro p {
+    max-width: 600px;
+    margin: 0 auto;
+    color: rgb(230, 230, 230);
+}
